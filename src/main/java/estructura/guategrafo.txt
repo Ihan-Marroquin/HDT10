@@ -1,0 +1,10 @@
+Escuintla SantaLucia 15
+SanLucas Chimaltenango 35
+Chimaltenango Tecpan 40
+Mixco Antigua 30
+Panajachel Quetzaltenango 60
+Guatemala SanLucas 10
+Tecpan Solola 50
+Antigua Escuintla 25
+SantaLucia Guatemala 20
+Solola Panajachel 15
